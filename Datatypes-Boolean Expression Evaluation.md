@@ -18,8 +18,14 @@ To write a Python program that evaluates and prints the results of boolean and a
 ---py
 
 s = input()
+
+
 f = input()
+
+
 print(s)
+
+
 print(f)
 
 ---
