@@ -15,9 +15,9 @@ To write a Python program to check whether the given number is **even** or **odd
      ---py
 num = int(input())
 if num % 2 == 0:
-     print("The number is Even")
+     print("Even")
 else:
-    print("The number is Odd")
+    print("Odd")
      ---
     
 
