@@ -16,7 +16,6 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```py
-# Evaluating boolean and arithmetic expressions
 
 a = (0 == True)
 b = (False == False)
