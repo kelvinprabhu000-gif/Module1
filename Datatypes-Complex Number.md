@@ -13,7 +13,7 @@ To write a Python program that reads two integers, creates a complex number usin
 
 ## 💻 Program
 # Program to create and display a complex number
-```
+```py
 a = int(input())
 b = int(input())
 
