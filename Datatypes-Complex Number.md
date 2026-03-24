@@ -28,3 +28,4 @@ print("Imaginary part:", x.imag)
 
 
 ## Result
+Thus,the Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts is created successfully.
