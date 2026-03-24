@@ -33,4 +33,6 @@ print("d:", d)
 
 
 ## Output
+<img width="426" height="241" alt="image" src="https://github.com/user-attachments/assets/1b68ff45-3477-4fe5-a72a-68491fab3b4b" />
+
 ## Result
