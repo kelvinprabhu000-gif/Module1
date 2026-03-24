@@ -16,7 +16,8 @@ men_stepped_on_the_moon = input()
 print(men_stepped_on_the_moon)
 ```
 ## Output
-<img width="596" height="159" alt="image" src="https://github.com/user-attachments/assets/3f63f696-ae57-4240-9a3b-22c6477da965" />
+<img width="1104" height="341" alt="image" src="https://github.com/user-attachments/assets/affe8827-fbc1-4bb4-bdf2-30a9849cd217" />
 
 
 ## Result
+Thus,the Python program to read a string from the user and then print it is created successfully.
