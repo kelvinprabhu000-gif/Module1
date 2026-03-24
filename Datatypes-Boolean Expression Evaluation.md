@@ -17,11 +17,8 @@ To write a Python program that evaluates and prints the results of boolean and a
 ## 💻 Program
 ---py
 s = input()
----
 f = input()
----
 print(s)
----
 print(f)
 ---
 
